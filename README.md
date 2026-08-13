@@ -60,7 +60,7 @@ Troubleshooting involved:
 
 ## Related Projects
 
-- [Graylog SIEM Home Lab](https://github.com/P-Ruck/Graylog-Siem-Homelab)
+- [[Graylog SIEM Home Lab](https://github.com/P-Ruck/Graylog-Siem-Homelab)](https://github.com/P-Ruck/Graylog-Siem-Homelab.git)
 
 ## Skills Demonstrated
 
